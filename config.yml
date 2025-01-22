@@ -1,0 +1,24 @@
+﻿# GrenadeLauncher: "MONCEF50G"
+is_enabled: true
+debug: false
+GrenadeDamage: 250f
+LaunchForce: 25f
+# maximum spawner item: "MONCEF50G"
+  
+spawn_gun_maximum: 1f
+
+# information or ids for customitem: "MONCEF50G"
+
+GrenadeLauncher: #this for exiled9.4.0 for work !
+  id: 125488
+  ItemType: GunLogicer
+  
+  #pleas read:
+  #im creat this plugin for fun in the game 
+  #for add this :
+  #go in Exiled folder in your host
+  #put plugin (.dll) to exiled/plugin/the
+  #restart your server 
+  #go in Exiled/Configs/GrenadeLauncher.yml
+  #edit the plugin settings
+  #enjoy
